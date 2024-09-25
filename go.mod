@@ -1,4 +1,4 @@
-module github.com/soulgarden/twelvedata
+module github.com/FuYuanDe2024/twelvedata
 
 go 1.20
 
